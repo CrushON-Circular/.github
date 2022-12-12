@@ -1,3 +1,3 @@
-# ⚡ Welcome at CrushON
+# ⚡ We are CrushON
 
-[CrushON](https://crushonapp.com/) is the #1 omnichannel vintage fashion platform
+![CrushON](https://crushonapp.com/) is the #1 omnichannel vintage fashion platform
